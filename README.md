@@ -1,4 +1,4 @@
-# Geo Relief AR: Explorando a Terra com Realidade Aumentada 🌍🔍
+# Geo Relief AR: Explorando a Terra com Realidade Aumentada 🌍
 
 Bem-vindo ao Geo Relief AR 🚀, uma revolução no ensino de topografia e hidrografia 🗺️. Neste projeto, mergulhamos no mundo da realidade aumentada para oferecer uma experiência educacional imersiva e interativa, transformando a forma como os alunos exploram e aprendem sobre a Terra.
 
