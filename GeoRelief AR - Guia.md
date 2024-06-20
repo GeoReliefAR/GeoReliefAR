@@ -1,4 +1,14 @@
-## 1 - REQUISITOS
+
+# 🌍 GeoRelief AR 🌍
+<br>
+
+Para fazer o download do guia em PDF, basta clicar no link abaixo.
+<br>
+[Guia de montagem em PDF](https://drive.google.com/file/d/1QcmQQUmcYwLkjb4AWOyQnwIEUz1kNtnV/view?usp=sharing).
+<br>
+<br>
+
+## 1 - REQUISITOS 
 
 
 Como base de estudo e consulta foi utilizado o ‘SARndbox’, projeto desenvolvido em parceria pela Universidade da Califórnia, Centro de Pesquisa Ambiental de Tahoe, e Aquário e Centro de Ciências ECHO Lake. Para que seja realizada a montagem da ferramenta são necessários:
