@@ -461,10 +461,5 @@ na areia, lembrando que para simular a água, deve-se colocar a mão a uma altur
 aproximadamente 30 - 50 centímetros da areia, fazendo a simulação de uma chuva.
 <br>
 <br>
- <div align="center">
-  <img src="https://github.com/GeoReliefAR/Imagens/assets/169377616/52f9f230-e960-4d6c-8133-46af13db58d4" width="800px" />
-</div>
 
-*Direitos da imagem: [Instructables - Augmented Reality Sandbox](https://www.instructables.com/Augmented-Reality-Sandbox/)*
-<br>
 
