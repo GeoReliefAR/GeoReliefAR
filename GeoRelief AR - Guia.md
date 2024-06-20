@@ -1,7 +1,7 @@
 ## 1 - REQUISITOS
 
 
-Como base de estudo e consulta foi utilizado o ‘SARndbox’, projeto desenvolvido em parceria pela Universidade da Califórnia, Centro de Pesquisa Ambiental de Tahoe, e Aquário e Centro de Ciências ECHO Lake (KAWAMOTO et al., 2016). Para que seja realizada a montagem da ferramenta são necessários:
+Como base de estudo e consulta foi utilizado o ‘SARndbox’, projeto desenvolvido em parceria pela Universidade da Califórnia, Centro de Pesquisa Ambiental de Tahoe, e Aquário e Centro de Ciências ECHO Lake. Para que seja realizada a montagem da ferramenta são necessários:
 
 - **Computador** com placa gráfica offboard, que possua pelo menos 1 GB (gigabytes) de memória dedicada, placa recomendada Geforce GTX 970. Caso as configurações possíveis não atinjam esses requisitos recomendados, é possível desativar a chuva para minimizar o consumo da GPU.
 - **Sistema operacional (SO)** Linux Mint versão MATE de 64-bit, com requisito mínimo de 2 GB de RAM e 25 GB de disco rígido, suficiente para o Linux, e também, para a aplicação.
